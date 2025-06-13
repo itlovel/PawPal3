@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PawPal3</string>
+
+    <string name="category_prompt">Choose the category</string>
+</resources>

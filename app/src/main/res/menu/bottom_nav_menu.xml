@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_adopt"
+        android:icon="@drawable/ic_adopt"
+        android:title="Adopt"/>
+
+    <item
+        android:id="@+id/navigation_katalog"
+        android:icon="@drawable/ic_katalog"
+        android:title="Katalog"/>
+
+    <item
+        android:id="@+id/navigation_grooming"
+        android:icon="@drawable/ic_grooming"
+        android:title="Grooming and Doctor"/>
+
+    <item
+        android:id="@+id/navigation_meal"
+        android:icon="@drawable/ic_meal"
+        android:title="Meal Planner"/>
+</menu>
